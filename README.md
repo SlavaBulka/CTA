@@ -1,5 +1,5 @@
 # CTA
-Graduation project
+Graduation project: Comic Translation Assistant (Помощник в переводе комиксов)
 
 Ссылка на видео:
 
